@@ -5,7 +5,7 @@ def using_while
   puts "I have found the Time Machine!"
 puts "using_while" 
 puts levitation_force = 10
-puts levitation_force = 1
+until levitation_force = 1
 end
 
 
